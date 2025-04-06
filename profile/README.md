@@ -43,7 +43,7 @@ Slip is a system-level package/config manager designed to:
 
 | Project       | License   | TL;DR                                |
 |---------------|-----------|--------------------------------------|
-| CLI (`cli/`)  | AGPL-3.0  | Free to use, but don’t monetize it unless you open it up |
+| CLI  | AGPL-3.0  | Free to use, but don’t monetize it unless you open it up |
 | Slipfiles     | MIT       | Use, remix, share freely             |
 | Docs          | CC-BY 4.0 | Copy/paste with attribution          |
 
