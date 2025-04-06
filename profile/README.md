@@ -20,11 +20,11 @@ If you're looking for the actual code, it's in the usual places:
 - 📦 [`slippkg/cli`](https://github.com/slippkg/cli) — The CLI tool.  
   Runs `slip sync`, `slip in`, `slip commit`. Declarative infra management with Lua, not regret.
 
-- 📚 [`slippkg/docs`](https://github.com/slippkg/docs) — Project documentation.  
-  Markdown-based. Works offline. No JavaScript frameworks were harmed.
-
 - 🧰 [`slippkg/pkgs`](https://github.com/slippkg/pkgs) — Slipfile registry.  
   Community-driven install definitions. MIT licensed. No registry server needed.
+
+- 📚 [`slippkg/docs`](https://github.com/slippkg/docs) — Project documentation.  
+  Markdown-based. Works offline. No JavaScript frameworks were harmed.
 
 ---
 
