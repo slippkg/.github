@@ -1,4 +1,4 @@
-# slippkg
+# Slip
 ![status: WIP](https://img.shields.io/badge/status-WIP-yellow)
 > Slip is under active development. Expect breaking changes, incomplete features, and occasional design decisions made at 2am.
 
